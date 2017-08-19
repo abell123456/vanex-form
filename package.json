@@ -1,12 +1,11 @@
 {
   "name": "vanex-form",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vanex基于mobx-react-form的表单验证插件",
   "main": "./index.js",
   "scripts": {
     "build": "rimraf lib && babel src --out-dir lib --watch"
   },
-  "private": false,
   "preferGlobal": true,
   "repository": {
     "type": "git",

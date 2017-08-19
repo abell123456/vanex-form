@@ -1,13 +1,13 @@
-# @alife/vanex-form
+# vanex-form
 
 ## 用法
 
 ```javascript
-import vanexForm from '@alife/vanex-form';
+import vanexForm from 'vanex-form';
 
 import {
     use,
-} from '@alife/vanex';
+} from 'vanex';
 
 const fields = [
     {
